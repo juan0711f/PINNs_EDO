@@ -1,0 +1,9 @@
+Nombre anterior de esta carpeta: HCS_n1_1sub
+Nombre actual: exp1_HCS_1sub
+
+Experimento 1: HCS-PINNs no secuencial (1 subintervalo).
+Tabla 6 (fila 'HCS (1 subinterval)', J=15.561244, iter 60, 20426 s), Tabla de errores L2,
+Figuras Hard-Constrained (serie 'Non-sequential').
+
+Nota: run_info.json conserva el nombre original en los campos 'simulation' y
+'run_directory', porque es el registro de la corrida y no se ha modificado.
