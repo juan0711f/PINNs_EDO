@@ -1,0 +1,9 @@
+Nombre anterior de esta carpeta: sinsu_HCS_4sub
+Nombre actual: exp2_HCS_4sub_control3_sinusoidal
+
+Experimento 2 (robustez): HCS-PINNs 4 subintervalos con el control inicial sinusoidal
+('Initial control 3' en la figura del Experimento 2).
+J=15.385723 (iter 98); referencia clasica J=15.349983 (iter 116).
+
+Nota: run_info.json conserva el nombre original en los campos 'simulation' y
+'run_directory', porque es el registro de la corrida y no se ha modificado.
