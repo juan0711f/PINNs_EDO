@@ -1,0 +1,9 @@
+Nombre anterior de esta carpeta: SCS_4sub
+Nombre actual: exp1_SCS_4sub
+
+Experimento 1: SCS-PINNs secuencial (4 subintervalos).
+Tabla 6 (fila 'SCS (4 subintervals)', J=15.878714, iter 24, 8102 s), Tabla de errores L2,
+Figuras de controles/estados/funcional Soft-Constrained (serie 'Sequential').
+
+Nota: run_info.json conserva el nombre original en los campos 'simulation' y
+'run_directory', porque es el registro de la corrida y no se ha modificado.
