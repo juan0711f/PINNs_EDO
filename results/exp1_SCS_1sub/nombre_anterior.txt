@@ -1,0 +1,9 @@
+Nombre anterior de esta carpeta: SCS_1sub
+Nombre actual: exp1_SCS_1sub
+
+Experimento 1: SCS-PINNs no secuencial (1 subintervalo) = PINN clasica.
+Tabla 6 (fila 'SCS (1 subinterval)', J=15.623673, iter 56, 19529 s), Tabla de errores L2,
+Figuras Soft-Constrained (serie 'Non-sequential').
+
+Nota: run_info.json conserva el nombre original en los campos 'simulation' y
+'run_directory', porque es el registro de la corrida y no se ha modificado.
