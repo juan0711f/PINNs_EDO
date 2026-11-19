@@ -1,0 +1,11 @@
+Nombre anterior de esta carpeta: HCS_n1
+Nombre actual: exp1_HCS_4sub
+
+Experimento 1: HCS-PINNs secuencial (4 subintervalos). Mejor configuracion del articulo.
+Tabla 6 (fila 'HCS (4 subintervals)', J=15.450080, iter 79, 24773 s), Tabla de errores L2,
+Figuras Hard-Constrained (serie 'Sequential').
+TAMBIEN es la corrida del Experimento 2 con 'Initial control 1 (constant)'.
+De aqui sale ademas la referencia clasica del articulo (J=15.350898, iter 118).
+
+Nota: run_info.json conserva el nombre original en los campos 'simulation' y
+'run_directory', porque es el registro de la corrida y no se ha modificado.
